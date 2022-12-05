@@ -11,5 +11,5 @@ Project_9_mobile_app_analysis.ipynb
 A/B-тест, визуализация, статистический тест
 
 **Используемые библиотеки**  
-`Pandas` `Numpy` `Matplotlib` `Seaborn` `Plotly` `Scipy`
+`Pandas` `Numpy` `Matplotlib` `Seaborn` `Plotly` `SciPy`
 
